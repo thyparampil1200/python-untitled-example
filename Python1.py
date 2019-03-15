@@ -1,10 +1,9 @@
 def main(msg):
 
-    //Adding third comment
-    //Just checking conflicts
-    //Prints out msg
+    //Comments no longer needed
 
     print(msg)
+
 
 
 <<<<<<< HEAD
