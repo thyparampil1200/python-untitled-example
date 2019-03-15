@@ -4,7 +4,8 @@ def main(msg):
 
     print(msg)
 
-
+def secondary():
+    print("New Function")
 
 <<<<<<< HEAD
 
